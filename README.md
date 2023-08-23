@@ -1,1 +1,1 @@
-this pproject is about Stacks and Queues
+this project is about Stacks and Queues
